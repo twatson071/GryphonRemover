@@ -1,0 +1,12 @@
+## Interface: 70300
+
+## Title: No Gryphons
+## Author: Thommiepls
+## Version: 7.3.0.07
+## Notes: Removes those dumbass Gryphons
+
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+
+Main.lua
